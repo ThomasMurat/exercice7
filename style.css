@@ -1,0 +1,21 @@
+.form1 {
+    background-color: rgb(37, 116, 169);
+}
+.form2 {
+    background-color: rgb(154, 18, 179);
+}
+.form3 {
+    background-color: rgb(219, 10, 91);
+}
+p {
+    padding: 20px;
+}
+#fieldtitre1 {
+    background-color: rgb(37, 116, 169);
+}
+#fieldtitre2 {
+    background-color: rgb(154, 18, 179);
+}
+#fieldtitre3 {
+    background-color: rgb(219, 10, 91);
+}

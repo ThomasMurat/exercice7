@@ -1,10 +1,12 @@
-.form1 , #fieldtitre1 {
+#identity , #identity legend {
     background-color: rgb(37, 116, 169);
 }
-.form2 , #fieldtitre2 {
+#delivery , #delivery legend {
     background-color: rgb(154, 18, 179);
 }
-.form3 , #fieldtitre3 {
+#paiement , #paiement legend {
     background-color: rgb(219, 10, 91);
 }
-
+ul li {
+    list-style: none;
+}
